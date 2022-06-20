@@ -13,31 +13,6 @@
             "name": "English"
         }
     ],
-    "tests": [
-    {
-      "id": 1,
-      "name": "Dashlite Development",
-      "desc": "Design and develop the DashLite template for Envato Marketplace",
-      "totalQuestion": "93",
-      "category": "Math",
-      "createdDate": "",
-      "status": "ENDED",
-      "averageScore": "49.9",
-      "numberOfResults": "3",
-      "questions": []
-    },
-    {
-      "id": 2,
-      "name": "Dashlite Development",
-      "desc": "Design and develop the DashLite template for Envato Marketplace",
-      "totalQuestion": "93",
-      "category": "Math",
-      "createdDate": "",
-      "status": "ACTIVE",
-      "averageScore": "70",
-      "numberOfResults": "3",
-      "questions": []
-    }
-   ]
+    "tests": []
 }
           
