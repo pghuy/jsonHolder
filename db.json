@@ -24,7 +24,7 @@
       "status": "ENDED",
       "averageScore": "49.9",
       "numberOfResults": "3",
-      "questions": [],
+      "questions": []
     },
     {
       "id": 2,
@@ -36,9 +36,9 @@
       "status": "ENDED",
       "averageScore": "49.9",
       "numberOfResults": "3",
-      "questions": [],
+      "questions": []
     },
-     {
+    {
       "id": 3,
       "name": "Dashlite Development",
       "desc": "Design and develop the DashLite template for Envato Marketplace",
@@ -48,9 +48,9 @@
       "status": "ENDED",
       "averageScore": "49.9",
       "numberOfResults": "3",
-      "questions": [],
+      "questions": []
     },
-         {
+    {
       "id": 4,
       "name": "Dashlite Development",
       "desc": "Design and develop the DashLite template for Envato Marketplace",
@@ -60,11 +60,10 @@
       "status": "ENDED",
       "averageScore": "49.9",
       "numberOfResults": "3",
-      "questions": [],
+      "questions": []
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
-          
