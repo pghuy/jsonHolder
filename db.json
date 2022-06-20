@@ -1,17 +1,29 @@
 {
-    "categories": [
-        {
-            "id": 1,
-            "name": "Math"
-        },
-        {
-            "id": 2,
-            "name": "Geography"
-        },
-        {
-            "id": 3,
-            "name": "English"
-        }
-    ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Math 1"
+    },
+    {
+      "id": 2,
+      "title": "Geography 2"
+    },
+    {
+      "id": 3,
+      "title": "English 3"
+    }
+  ],
+  "tests": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
 }
           
